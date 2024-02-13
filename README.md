@@ -1,0 +1,8 @@
+Explores the application of regularization techniques, specifically Ridge and Lasso regression, to predict graduation rates using the College dataset. 
+Regularization methods are essential in addressing overfitting and improving the generalization performance of predictive models. 
+In this analysis, we aim to build and compare Ridge and Lasso regression models, evaluate their predictive performance, 
+and assess the impact of regularization on model coefficients. 
+The College dataset contains information about various factors influencing graduation rates in colleges, such as application statistics, faculty demographics, and 
+financial expenditure. 
+By leveraging this dataset, we seek to understand how different features contribute to graduation rates and whether regularization techniques 
+can enhance model interpretability and predictive accuracy.
